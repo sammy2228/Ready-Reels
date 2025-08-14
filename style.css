@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+  color: #333;
+  text-align: center;
+}
+header {
+  padding: 80px 20px 40px;
+}
+header h1 {
+  margin: 0;
+  font-size: 48px;
+}
+header p {
+  margin: 10px 0 0;
+  font-size: 18px;
+  color: #666;
+}
+main .intro {
+  padding: 40px 20px;
+}
+main .intro h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+main .intro p {
+  font-size: 20px;
+  color: #555;
+}
+footer {
+  padding: 20px;
+  font-size: 14px;
+  color: #aaa;
+}
